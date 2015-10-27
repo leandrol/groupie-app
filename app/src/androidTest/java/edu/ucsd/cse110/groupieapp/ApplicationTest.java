@@ -1,4 +1,4 @@
-package com.example.leandro.groupieapp;
+package edu.ucsd.cse110.groupieapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
