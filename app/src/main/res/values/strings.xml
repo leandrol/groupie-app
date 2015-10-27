@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GroupieApp</string>
+    <string name="signing_in">Signing in...</string>
 </resources>
